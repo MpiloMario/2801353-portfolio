@@ -1,0 +1,48 @@
+header{
+    background-color: gainsboro;
+    padding: 20px;
+    text-align: center;
+    color:beige;
+}
+nav ul{
+    list-style: none;
+    display: inline-flex;
+}
+body{
+    margin: 0;
+    background-color:antiquewhite
+}
+nav ul li{
+    margin: 0 15px;
+}
+nav ul li a{
+    color: beige;
+    text-decoration: none;
+    font-size: 18px;
+}
+ main section{
+    border:10px;
+    border-radius: 30px;
+    background-color:gainsboro;
+    width: 60%;
+    margin: 20px auto;
+}
+main section h2{
+    text-align: center;
+    color:beige;
+}
+main article{
+    border:10px;
+    border-radius: 30px;
+    background-color:gainsboro;
+    width: 40%;
+    margin: 20px auto;
+}
+main article h3{
+    text-align: center;
+    color:beige;
+}
+footer{
+    color:red;
+    text-align: center;
+}
